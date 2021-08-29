@@ -3,4 +3,4 @@ Abstract: Adversarial training has been proven to be a powerful regularization m
 
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/56249874/131253058-b2efc608-f3e8-4633-977c-77e1c3f1e426.png">
 
-### Welcome to click on the star, thank you!
+### Stars are welcome, thank you!
