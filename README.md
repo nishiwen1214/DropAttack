@@ -10,4 +10,14 @@ Abstract: Adversarial training has been proven to be a powerful regularization m
 - #### Experimental results:
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/56249874/131650037-5bdf978d-5ac1-4da2-9cac-aa7bda538b1b.png">
 
+# Requirements
+```
+pytorch
+pandas
+numpy
+nltk
+sklearn
+torchtext
+```
+
 - ### Stars are welcome! thank you!
