@@ -20,4 +20,4 @@ sklearn
 torchtext
 ```
 
-- ### Stars are welcome! thank you!
+- ### Please star it, thank you! :）
