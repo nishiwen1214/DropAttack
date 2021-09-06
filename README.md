@@ -10,7 +10,7 @@ Abstract: Adversarial training has been proven to be a powerful regularization m
 - #### Experimental results:
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/56249874/131650037-5bdf978d-5ac1-4da2-9cac-aa7bda538b1b.png">
 
-<img width="866" alt="image" src="https://user-images.githubusercontent.com/56249874/132156674-311aaf1a-c154-424c-b688-37bec73fbefe.png">
+<img width="936" alt="image" src="https://user-images.githubusercontent.com/56249874/132156790-6c4887cd-b31a-4df3-9a61-ce328f3beb89.png">
 
 DropAttack indeed selects flatter loss landscapes via masked adversarial perturbations.
 <img width="729" alt="image" src="https://user-images.githubusercontent.com/56249874/132156552-7bc24b30-ca98-4791-9ecc-e70425c2027a.png">
