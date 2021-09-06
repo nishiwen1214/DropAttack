@@ -13,7 +13,7 @@ Abstract: Adversarial training has been proven to be a powerful regularization m
 
 - #### For technical details and additional experimental results, please refer to our paper:
 
-[DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks](http://arxiv.org/abs/2108.12805)
+[“DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks”](http://arxiv.org/abs/2108.12805)
 
  <img width="770" alt="image" src="https://user-images.githubusercontent.com/56249874/131253058-b2efc608-f3e8-4633-977c-77e1c3f1e426.png">
  
