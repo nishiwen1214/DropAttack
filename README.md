@@ -25,6 +25,18 @@ Abstract: Adversarial training has been proven to be a powerful regularization m
 DropAttack indeed selects flatter loss landscapes via masked adversarial perturbations.
 <img width="981" alt="image" src="https://user-images.githubusercontent.com/56249874/132156881-5d7f059f-802b-4391-94b2-8bfd26b7e9b6.png">
 
+### Citation
+```
+@inproceedings{ni2020psforest,
+  title={PSForest: Improving Deep Forest via Feature Pooling and Error Screening},
+  author={Ni, Shiwen and Kao, Hung-Yu},
+  booktitle={Asian Conference on Machine Learning},
+  pages={769--781},
+  year={2020},
+  organization={PMLR}
+}
+```
+
 - ### Requirements
 ```
 pytorch
